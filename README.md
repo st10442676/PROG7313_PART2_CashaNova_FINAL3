@@ -18,6 +18,8 @@ It meets the assignment requirements and has no bugs
 - Individual Member Branches
 Members have contributed code to the repo in their own branches
 These branches are transparent and public proof of member activity
+# Our branches are based off the main branch therefore (the final project is present in each persons branch). Each person will add their own code files based off what they did through commits.
+
 - Shared Development Branch
 A common branch where all shared code files per each member are.
 Also the repository has been set to public allowing the lecturer to:
