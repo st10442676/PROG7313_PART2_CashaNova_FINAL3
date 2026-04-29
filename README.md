@@ -1,4 +1,6 @@
 # PROG7313_PART2_CashaNova_FINAL3
+
+# YOUTUBE PRESENTATION VIDEO LINK: https://youtu.be/fuGBYUh58es
 # 1) Repository Strategy and Branching Decision
 
 Our submission repository (PROG7313_PART2_CashaNova_FINAL3) is the third time that our group has attempted to complete part 2 of this assignment. This is not by coincidence; it is the work of two previous attempts at creating a repository that have not succeeded due to integration issues that failed to build successfully in the final product.
